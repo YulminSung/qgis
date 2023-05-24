@@ -46,3 +46,6 @@
 
  + VCS(Vertical Coordicate systems)
    + 해양과학 해수면과 관련
+
+## Jupyter lab 실행
+- git bash에 'jupyter lab' 입력 (가상환경 시스템에서)

@@ -47,5 +47,10 @@
  + VCS(Vertical Coordicate systems)
    + 해양과학 해수면과 관련
 
+## GeoJSON 파일로 내보내기
+- 지도 공급 사이트(.shp 파일 형태) --> 데이터 불러오기 및 가공 --> GeoJSON 형태로 내보내기
+
 ## Jupyter lab 실행
 - git bash에 'jupyter lab' 입력 (가상환경 시스템에서)
+- deep learning 작업 시에만 google colab 에서 진행
+- 나머지의 경우에는 local에서 실시
